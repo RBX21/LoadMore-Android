@@ -1,0 +1,3 @@
+include ':loadmore'
+include ':app'
+rootProject.name = "LoadMore"
